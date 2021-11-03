@@ -5,7 +5,7 @@ You can find me on <a href="https://www.linkedin.com/in/zia-rehman-599495166/"><
 
 Our health is an important factor to ensuring we can be at the top of our game. Check out and follow my fitness instagram to see me doing some cool stuff and talk about how we can integrate looking after ourselves with the rest of our busy lives! <a href="https://www.instagram.com/ziarehman_fitness/"><img src="./iconmonstr-instagram-13.svg" ></a>
 
-# Skills
+# &#x1f527; Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
@@ -17,7 +17,7 @@ Our health is an important factor to ensuring we can be at the top of our game. 
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 
-# Github Stats
+# &#128200; Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamzr&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
