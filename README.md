@@ -3,7 +3,7 @@ Hi, I’m Zia Rehman and I'm a full stack developer specialising in the MERN sta
 
 You can find me on <a href="https://www.linkedin.com/in/zia-rehman-599495166/"><img src="./iconmonstr-linkedin-3.svg"></a> and <a href="https://www.instagram.com/weareziarehman/"><img src="./iconmonstr-instagram-13.svg"></a> or just drop me an email <a href="mailto:iamziarehman@gmail.com"><img src="./iconmonstr-email-2.svg"></a>
 
-Our health is an important factor to ensuring we can be at the top of our game. Check out and follow my fitness instagram to see me doing some cool stuff and talk about how we can integrate looking after ourselves with the rest of our busy lives! <a href="https://www.instagram.com/ziarehman_fitness/"><img src="./iconmonstr-instagram-13.svg" ></a>
+Our health is an important factor to ensuring we're the top of our game. Check out and follow my fitness instagram to see me doing some cool stuff and talk about how we can integrate looking after ourselves with the rest of our busy lives! <a href="https://www.instagram.com/ziarehman_fitness/"><img src="./iconmonstr-instagram-13.svg" ></a>
 
 # &#x1f527; Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
