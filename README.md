@@ -1,5 +1,5 @@
 # Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hi, I’m Zia Rehman and I'm a full stack developer specialising in the MERN stack. I'm open to work so feel free to message me!
+Hi, I’m Zia Rehman and I'm a full stack developer specialising in the MERN stack. I'm open to work so feel free to message me if you're hiring or know anyone that is!
 
 You can find me on <a href="https://www.linkedin.com/in/zia-rehman-599495166/"><img src="./iconmonstr-linkedin-3.svg"></a> and <a href="https://www.instagram.com/weareziarehman/"><img src="./iconmonstr-instagram-13.svg"></a> or just drop me an email <a href="mailto:iamziarehman@gmail.com"><img src="./iconmonstr-email-2.svg"></a>
 
