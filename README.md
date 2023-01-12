@@ -1,5 +1,5 @@
 # Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hi, I’m Zia Rehman and I'm a full stack developer currently working in London.
+Hi, I’m Zia Rehman and I'm a software engineer currently working in London.
 
 Check out my website <a href="https://ziarehman.uk">ziarehman.uk<a/>. You can find me on :
   
