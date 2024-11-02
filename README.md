@@ -4,12 +4,8 @@ Hi, I’m Zia Rehman and I'm a software engineer currently working in London.
 Check out my website <a href="https://ziarehman.uk">ziarehman.uk<a/>. You can find me on :
   
   <a href="https://www.linkedin.com/in/zia-rehman-599495166/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="https://www.instagram.com/weareziarehman/">![Instagram](https://img.shields.io/badge/@WeAreZiaRehman-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-    <a href="mailto:iamziarehman@gmail.com">![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-Our health is an important factor to ensuring we're at the top of our game. Check out and follow my fitness instagram to see me doing some cool stuff and talk about how we can integrate looking after ourselves with the rest of our busy lives!
-  
-  <a href="https://www.instagram.com/ziarehman_fitness/">![Instagram](https://img.shields.io/badge/@ZiaRehman_Fitness-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a></a>
+  <a href="mailto:iamziarehman+github@gmail.com">![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   
 # 📋 Languages
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
