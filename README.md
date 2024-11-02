@@ -4,7 +4,6 @@ Hi, I’m Zia Rehman and I'm a software engineer currently working in London.
 Check out my website <a href="https://ziarehman.uk">ziarehman.uk<a/>. You can find me on :
   
   <a href="https://www.linkedin.com/in/zia-rehman-599495166/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
   <a href="mailto:iamziarehman+github@gmail.com">![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   
 # 📋 Languages
