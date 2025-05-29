@@ -26,7 +26,7 @@ Check out my website <a href="https://ziarehman.uk">ziarehman.uk<a/>. You can fi
 # &#128200; Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamzr&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamzr&hide=ruby,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 iamzr/iamzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
